@@ -1,0 +1,14 @@
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\bin\Debug\netcoreapp3.1\Factory Pattern First Look.exe
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\bin\Debug\netcoreapp3.1\Factory Pattern First Look.deps.json
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\bin\Debug\netcoreapp3.1\Factory Pattern First Look.runtimeconfig.json
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\bin\Debug\netcoreapp3.1\Factory Pattern First Look.runtimeconfig.dev.json
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\bin\Debug\netcoreapp3.1\Factory Pattern First Look.dll
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\bin\Debug\netcoreapp3.1\Factory Pattern First Look.pdb
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.csprojAssemblyReference.cache
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.AssemblyInfoInputs.cache
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.AssemblyInfo.cs
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.csproj.CoreCompileInputs.cache
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.dll
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.pdb
+C:\Users\ELSA0001\source\CSharp-repos\FactoryDesignPattern\demos\Demo 1 - Factory Pattern First Look\Start_Here\obj\Debug\netcoreapp3.1\Factory Pattern First Look.genruntimeconfig.cache
